@@ -22,7 +22,7 @@ https://bwogi.github.io/01-HTML-Git-CSS-Challenge-2/
   <p align="center">
     An awesome README template to jumpstart your projects!
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Bwogi/01-HTML-Git-CSS-Challenge-2"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://bwogi.github.io/01-HTML-Git-CSS-Challenge-2/">View Demo</a>

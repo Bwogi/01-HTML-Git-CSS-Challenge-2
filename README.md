@@ -17,11 +17,10 @@ https://bwogi.github.io/01-HTML-Git-CSS-Challenge-2/
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">Code Refactoring for a Marketing Agency Site</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
-    <br />
+
     <a href="https://github.com/Bwogi/01-HTML-Git-CSS-Challenge-2"><strong>Explore the docs »</strong></a>
     <br />
     <br />

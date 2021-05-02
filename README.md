@@ -1,6 +1,3 @@
-# 01-HTML-Git-CSS-Challenge-2
-https://bwogi.github.io/01-HTML-Git-CSS-Challenge-2/
-
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]

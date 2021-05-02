@@ -9,7 +9,6 @@
   <a href="#">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a> -->
->>>>>>> a894d9b (final markdown contributions)
 
   <h3 align="center">Code Refactor Challenge</h3>
 

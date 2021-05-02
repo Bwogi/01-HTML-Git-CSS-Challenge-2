@@ -13,7 +13,7 @@
   <h3 align="center">Code Refactor Challenge</h3>
 
   <p align="center">
-    -
+    *
     <br />
     <a href="https://github.com/Bwogi/01-HTML-Git-CSS-Challenge-2"><strong>Explore the docs »</strong></a>
     <br />

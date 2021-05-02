@@ -20,9 +20,9 @@
     <br />
     <a href="https://bwogi.github.io/01-HTML-Git-CSS-Challenge-2/">View Demo</a>
     ·
-    <a href="https://bwogi.github.io/01-HTML-Git-CSS-Challenge-2/issues">Report Bug</a>
+    <a href="https://github.com/Bwogi/01-HTML-Git-CSS-Challenge-2/issues>Report Bug</a>
     ·
-    <a href="https://bwogi.github.io/01-HTML-Git-CSS-Challenge-2/issues">Request Feature</a>
+    <a href="https://github.com/Bwogi/01-HTML-Git-CSS-Challenge-2/issues">Request Feature</a>
   </p>
 </p>
 

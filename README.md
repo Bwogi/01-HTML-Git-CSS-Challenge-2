@@ -46,7 +46,7 @@
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
-        <li><a href="#screenshot">Mock up</a></li>
+        <li><a href="#mockup">Mock up</a></li>
         <li><a href="#user-story">User Story</a></li>
         <li><a href="#acceptance-criteria">Acceptance Criteria</a></li>
       </ul>

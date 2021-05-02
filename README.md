@@ -14,7 +14,7 @@
     <!-- <img src="images/logo.png" alt="Logo" width="80" height="80"> -->
   </a>
 
-  <h3 align="center">Code Refactoring for a Marketing Agency Site</h3>
+  <h3 align="center">Code Refactor Challenge</h3>
 
   <p align="center">
     ---
